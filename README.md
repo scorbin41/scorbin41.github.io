@@ -11,7 +11,7 @@
         <li>Driving Personality Quiz</li>
         <li>"Saturn"by SZA</li>
         <li>Children's Story MadLib</li>
-        <li>Pandora Jewlery Website</li>
+        <li>Pandora Jewelry Website</li>
     </ul>
 </body>
 </html>
